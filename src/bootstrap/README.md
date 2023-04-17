@@ -1,7 +1,7 @@
 # rustbuild - Bootstrapping Rust
 
 This is an in-progress README which is targeted at helping to explain how Rust
-is bootstrapped and in general, some of the technical details of the build
+is bootstrapped and, in general, some of the technical details of the build
 system.
 
 Note that this README only covers internal information, not how to use the tool.
